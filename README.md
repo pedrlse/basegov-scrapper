@@ -13,7 +13,7 @@ Execução do Código/Python execution (Python 3.8.6):
 <code>
 cd ./data-reader
 </code>
-
+<br>
 <code>  
 python & (localização_do_python)/python.exe ./data-reader-master/appfiles/main_db.py
 </code>
