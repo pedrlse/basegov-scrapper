@@ -8,11 +8,11 @@ Thank you @Averroes for this gist: https://gist.github.com/Averroes/6375a1cccd39
 !Necessita instalação do Microsoft Visual C++ 14.0! / !Needs instalation of Microsoft Visual C++ 14.0!
 
 Execução do Código/Python execution (Python 3.8.6):
-
+<code>
 > cd ./data-reader
 
 > python & (localização_do_python)/python.exe ./data-reader-master/appfiles/main_db.py
-
+</code>
 Requisitos estão localizados na pasta "require", num ficheiro com o nome: / Requirements are located on "require" folder on a file called:
 requirements.txt
 
