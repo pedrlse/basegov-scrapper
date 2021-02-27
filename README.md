@@ -8,8 +8,7 @@ Thank you @Averroes for this gist: https://gist.github.com/Averroes/6375a1cccd39
 !Necessita instalação do Microsoft Visual C++ 14.0! / !Needs instalation of Microsoft Visual C++ 14.0!
 
 Execução do Código/Python execution (Python 3.8.6):
-
-
+<br>
 <code>
 cd ./data-reader
 </code>
