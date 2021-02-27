@@ -16,7 +16,7 @@ cd ./data-reader
 </code>
 <br>
 <code>  
-python & (localização_do_python)/python.exe ./data-reader-master/appfiles/main_db.py
+python & <path>/python.exe ./data-reader-master/appfiles/main_db.py
 </code>
 
 Requisitos estão localizados na pasta "require", num ficheiro com o nome: / Requirements are located on "require" folder on a file called:
