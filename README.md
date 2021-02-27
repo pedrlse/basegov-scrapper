@@ -3,7 +3,7 @@
 🇵🇹 - Sistema de recolha de dados da plataforma Base Gov, onde estão localizados todos os contratos públicos celebrados em Portugal e pelo Governo Português.
 🇬🇧 - Data collection system to be used on Base Gov platform, where are located all contracts celebrated on Portugal and by the Portuguese Government.
 
-Thank you @Averroes for this gist: https://gist.github.com/Averroes/6375a1cccd39fe9f2dd7.
+Thank you <a href='https://github.com/Averroes'>@Averroes</a> for this <a href='https://gist.github.com/Averroes/6375a1cccd39fe9f2dd7'>gist</a>.
 
 !Necessita instalação do Microsoft Visual C++ 14.0! / !Needs instalation of Microsoft Visual C++ 14.0!
 
