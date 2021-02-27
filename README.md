@@ -1,4 +1,4 @@
-# basegov-scrapper (beta) por/by <a href='https://github.com/luisalexleite'>@luisalexleite</a> e/and <a href='https://github.com/pedrlse'>@pedrlse</a>
+# basegov-scrapper (master) por/by <a href='https://github.com/luisalexleite'>@luisalexleite</a> e/and <a href='https://github.com/pedrlse'>@pedrlse</a>
 
 🇵🇹 - Sistema de recolha de dados da plataforma Base Gov, onde estão localizados todos os contratos públicos celebrados em Portugal e pelo Governo Português.
 <br>
