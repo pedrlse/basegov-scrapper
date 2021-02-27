@@ -1,12 +1,13 @@
-# basegov-scrapper (master) por/by Luís Leite e Pedro Mota
+# basegov-scrapper (master) por/by <a href='https://github.com/luisalexleite'>@luisalexleite</a> e/and <a href='https://github.com/pedrlse'>@pedrlse</a>
 
 🇵🇹 - Sistema de recolha de dados da plataforma Base Gov, onde estão localizados todos os contratos públicos celebrados em Portugal e pelo Governo Português.
 🇬🇧 - Data collection system to be used on Base Gov platform, where are located all contracts celebrated on Portugal and by the Portuguese Government.
 
 Thank you <a href='https://github.com/Averroes'>@Averroes</a> for this <a href='https://gist.github.com/Averroes/6375a1cccd39fe9f2dd7'>gist</a>.
 
-!Necessita instalação do Microsoft Visual C++ 14.0! / !Needs instalation of Microsoft Visual C++ 14.0!
-
+```diff
+- Necessita instalação do Microsoft Visual C++ 14.0 / Needs instalation of Microsoft Visual C++ 14.0
+```
 Execução do Código/Python execution (Python 3.8.6):
 <br>
 <code>
