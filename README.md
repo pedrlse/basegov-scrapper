@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/luisalexleite/basegov-scrapper/blob/main/logo.png" />
+  <img src="https://github.com/luisalexleite/basegov-scrapper/blob/master/logo.png" />
 </p>
 
 # Base.gov Scrapper
