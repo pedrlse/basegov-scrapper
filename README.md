@@ -4,11 +4,9 @@
 
 # Base.gov Scrapper
 
+
 Data collection system to be used on Base Gov platform, where are located all contracts celebrated on Portugal and by the Portuguese Government.
 
-Especial thanks to <a href='https://github.com/pedrlse'>@pedrlse</a> por helping me in this project.
-
-Thank you <a href='https://github.com/Averroes'>@Averroes</a> for this <a href='https://gist.github.com/Averroes/6375a1cccd39fe9f2dd7'>gist</a>.
 
 ```diff
 - Needs instalation of Microsoft Visual C++ 14.0
@@ -27,3 +25,8 @@ Requirements are located on "require" folder on a file called:
 requirements.txt
 
 > pip install -r ./require/requirements.txt
+
+#### Thanks Department
+Especial thanks to <a href='https://github.com/pedrlse'>@pedrlse</a> por helping me in this project.
+
+Thank you <a href='https://github.com/Averroes'>@Averroes</a> for this <a href='https://gist.github.com/Averroes/6375a1cccd39fe9f2dd7'>gist</a>.
