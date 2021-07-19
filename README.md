@@ -6,7 +6,7 @@
 
 Data collection system to be used on Base Gov platform, where are located all contracts celebrated on Portugal and by the Portuguese Government.
 
-eatures:
+Features:
 
 - Publishes automatically videos from the chosen Youtube channel
 
