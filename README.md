@@ -8,9 +8,9 @@ Data collection system to be used on Base Gov platform, where are located all co
 
 Features:
 
-- Publishes automatically videos from the chosen Youtube channel
+- System that can handle requests and timeouts from the [Base Gov](https://www.base.gov) website
 
-- Advanced Editing of Video Information - description, thumbnail, playlists, tags and title
+- Records All Links that have the desired data
 
 ### System Requiments
 
