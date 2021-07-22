@@ -8,7 +8,7 @@ Data collection system to be used on Base Gov platform, where are located all co
 
 Features:
 
-- System that can handle requests and timeouts from the [Base Gov](https://www.base.gov) website
+- System that can handle requests and timeouts from the [Base Gov](https://www.base.gov.pt) website
 
 - Records All Links that have the desired data
 
